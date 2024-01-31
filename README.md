@@ -4,11 +4,6 @@ This is a simple portfolio website that I created using HTML and CSS. It consist
 
 
 
-## Demo
-
-You can check out the live demo of the portfolio website [here](#).
-
-[//]: # "Add a screenshot or gif of your website here if possible"
 
 ## Pages
 
