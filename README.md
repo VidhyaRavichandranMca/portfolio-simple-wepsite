@@ -2,15 +2,7 @@
 
 This is a simple portfolio website that I created using HTML and CSS. It consists of two main pages - Home and Contact.
 
-## Table of Contents
 
-- [Demo](#demo)
-- [Pages](#pages)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
